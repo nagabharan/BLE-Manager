@@ -2,7 +2,7 @@
 <resources>
 
     <string name="action_settings">Settings</string>
-    <string name="app_name">Bluetooth LE Scanner</string>
+    <string name="app_name">BLE Manager</string>
     <string name="connected">Connected</string>
     <string name="disconnected">Disconnected</string>
     <string name="invalid_device_data">Invalid Device Data!</string>
